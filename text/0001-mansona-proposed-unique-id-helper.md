@@ -8,7 +8,7 @@ release-versions:
 teams:
   - framework
   - learning
-proposal-pr: https://github.com/emberjs/rfcs/pull/0000
+proposal-pr: https://github.com/emberjs/rfcs/pull/1
 tracking-project:
 stage: Accepted
 ---
