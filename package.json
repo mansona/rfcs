@@ -1,0 +1,12 @@
+{
+  "name": "rfcs",
+  "version": "1.0.0",
+  "description": "The Ember Accepted RFC text",
+  "repository": {
+    "type": "git", 
+    "url": "git+https://github.com/emberjs/rfcs.git"
+  },
+  "license": "UNLICENCED",
+
+  "homepage": "https://empress-rfcs.netlify.app/"
+}

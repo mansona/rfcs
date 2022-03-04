@@ -1,8 +1,21 @@
 ---
-Start Date: 2020-04-22
-Relevant Team(s): All teams
-RFC PR: https://github.com/emberjs/rfcs/pull/617
+start: 2020-04-22
+# date
+release: 
+releaseVersions:
+  ember: 
+  cli:
+  data:
+  guides: 
 
+teams: 
+  - emberjs
+  - learning
+  - data
+  - steering
+  - cli
+rfc: https://github.com/emberjs/rfcs/pull/617
+stage: accepted
 ---
 
 # RFC Stages
