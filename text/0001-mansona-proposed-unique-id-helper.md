@@ -10,7 +10,7 @@ teams:
   - learning
 proposal-pr: https://github.com/emberjs/rfcs/pull/1
 tracking-project: https://github.com/mansona/rfcs/issues/2
-stage: Accepted
+stage: ready-for-release
 ---
 
 # mansona proposed {{unique-id}} helper
